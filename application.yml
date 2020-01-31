@@ -9,7 +9,7 @@ spring:
  application:
   name: microservicecloud-config-dev
 ---
-spirng:
+spring:
  profiles: test
  application:
   name: microservicecloud-config-test
